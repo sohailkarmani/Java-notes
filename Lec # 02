@@ -1,0 +1,14 @@
+// Java is case sensitive language like C and C++
+	// Java is nearly 100% object oriented language
+	// In java,its not possible to make a function which is not a member of any class(as we do in C++)
+	
+
+	// First program in java
+	
+
+	public class HelloWorld{
+	public static void main(String[] args){
+	System.out.print("Hello World");
+	}
+	}//do not put semicolon here
+	
