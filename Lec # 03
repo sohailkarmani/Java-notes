@@ -1,0 +1,23 @@
+// Data types and keywords in java
+
+// A type identifies a set of values (and their representation in the memory) and a set of operations that transform these values into other vales of set.
+// Java is strongly typed language.
+
+// Primitive datatype
+// User define datatype
+
+// Primitive datatype                    Size
+// (1) Boolean                          implementation dependent
+// (2) Char                             16 bits (syore unicode)
+// (3) Bytes                            8 bits
+// (4) Short                            16 bits
+// (5) Int                              32 bits
+// (6) Long                             64 bits
+// (7) Float                            32 bits
+// (8) Double                           64 bits
+
+// Constants
+// integer constant consists of a sequence of digits
+// if the consists is to represent a long integer value, it must be suffixed with an upper case L or lower case I
+// If there is no suffix the constant represnets 32 bits integer.
+// integer constant can be specified in the decimal,hexadecimal,octa or binary format.
