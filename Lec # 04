@@ -1,0 +1,24 @@
+//                              Comments
+// Block style comments begin with /* and terminat with */ that spans multiple lines.
+// Line style comments begin with // and terminate at the end of line.
+// Documentations style comments begin with /** and terminat with */ that spans multiple lines.
+// They are generlly created using the automat documentation generation tool such as java.
+//                              Conversion	
+// Every expression written in the java programming language has a type that can be deduced from the structure of the expression and the type of the literals,variables, and method mentioned in the expression.
+//                              Widening conversion
+// int y=3;
+// float x=y;  no error
+//                              Narrowing conversion
+// float x=3.4f;
+// int y=x; error
+// int y=(int)x;  no error
+// float k=3.5; error
+float k=3.5f; no error
+
+//                              Permitted Conversions
+// byte to short,int,long,float, or double
+// short to int,long,float, or double
+// char to int,long,float, or double
+// int to long,float, or double
+// long to float or double
+// float to double
