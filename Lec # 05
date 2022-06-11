@@ -1,0 +1,44 @@
+//                          Class
+// Class is a description of an objects properties and behaviour.
+// Creating class is as good as creating data type.
+// Class is defening a category of data.
+//                          Object
+// Object is a real world entity.
+// Object is a instance of a class.
+// object consumes memory to hold property value.
+
+
+
+// Creating object in java
+// In C++
+// Box b1;
+// BOx*p=new Box();
+// In java
+// Box smallBox=new Box;
+
+
+// Define a class box with length,wreadth and heigth as member variable.Also define setDimension() and showDimension() as member functions.
+
+class Box
+{
+private int length,wreadth,heigth;
+public void setDimension(int l,int w,int h)
+{ length l; breadth b; heigth h }
+public void showDimension()
+{
+System.out.println("L="+length);
+System.out.println("B="+breagth);
+System.out.println("H="+heigth);
+}
+}
+class Example
+{
+public static void main()
+{
+Box smallBox=new Box();
+smallBox.setDimension(10,12,5);
+smallBox.showDimension();
+smallBox=new Box();
+smallBox.showDimension();
+}
+}
