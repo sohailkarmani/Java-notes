@@ -1,0 +1,21 @@
+//                   Wrapper classes
+// as a solution to this problem ,Java allows you to include the primitives in the family of objects by using what are called wrapper classes.
+// there is a wrapper class for every primitive  data type in java.
+// this class encapulate a single value for the primitive data type.
+// for instance the class for int is Integer , for float is Float and so on.
+
+
+//    Primitive type                      Wrapper class
+//    boolen        ----------------------Boolen
+//    byte          ----------------------Byte
+//    char          ----------------------Char
+//    short         ----------------------Short
+//    int           ----------------------Int
+
+
+
+
+
+// use of import keyword in java
+// import is a keyword in java
+// its used to import classes of the other packages.
