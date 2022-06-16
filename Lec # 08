@@ -1,0 +1,22 @@
+// Access Modifilers in java
+// java supports four categories of accessibility value.
+// private,protected,public and default.
+// modifiers can be used for class,member variables and member functions.
+
+// with class
+// for outer class, there can be two possibilities ,either class in a public class or just a class which means its of default type.
+// for inner class any amoung four access modifiers can be used.
+
+
+// Remember
+// there can be only one public class in a single file.
+// the name of java file must be the same as the name of public class.
+// only public class can be accessed directly from outside the package.
+
+
+// Member varibles and function
+// when member of the class are private they can accessed from outside the class body.
+// they are meant to be accessed from the same class in which they are declared.
+// when members are protected ,they can be accessed from any class of the same package and child class from other package.
+// when member are public they are accessible from any class of any package.
+// when members are default,they are accessible only from the class of the package.
